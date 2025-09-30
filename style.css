@@ -1,9 +1,8 @@
 .container{
    /* height:500px;
     border:2px solid red;*/
-    padding-top:0px;
-    padding-left:200px;
-    padding-top: 100px;
+    padding-top:100px;
+    text-align: center;
 
 }
 .child-1{
@@ -17,6 +16,7 @@
 }
 .child-2{
     display: inline-block;
+    justify-content: center;
      width: 300px;
     height: 600px;
     margin:10px;
